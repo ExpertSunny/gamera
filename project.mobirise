@@ -36,7 +36,7 @@
     "noImageResize": "",
     "html_before": "",
     "headbody": "",
-    "botbody": "<script type=\"text/javascript\">//<![CDATA[ \r\n(function() {\r\n    var configuration = {\r\n    \"token\": \"ebcb672c2b97229d229f976b0c9ccb6f\",\r\n    \"excludeDomains\": [\r\n        \"gamera.cf\",\r\n        \"expertsunny.tk\",\r\n        \"expertsunny.github.io\",\r\n        \"paypal.com\",\r\n        \"paypal.me\"\r\n    ],\r\n    \"capping\": {\r\n        \"limit\": 5,\r\n        \"timeout\": 24\r\n    },\r\n    \"entryScript\": {\r\n        \"type\": \"click\",\r\n        \"capping\": {\r\n            \"limit\": 5,\r\n            \"timeout\": 24\r\n        }\r\n    },\r\n    \"exitScript\": {\r\n        \"enabled\": true\r\n    },\r\n    \"popUnder\": {\r\n        \"enabled\": true\r\n    }\r\n};\r\n    var script = document.createElement('script');\r\n    script.async = true;\r\n    script.src = '//cdn.shorte.st/link-converter.min.js';\r\n    script.onload = script.onreadystatechange = function () {var rs = this.readyState; if (rs && rs != 'complete' && rs != 'loaded') return; shortestMonetization(configuration);};\r\n    var entry = document.getElementsByTagName('script')[0];\r\n    entry.parentNode.insertBefore(script, entry);\r\n})();\r\n//]]></script>",
+    "botbody": "",
     "google-analytics": "",
     "cookiesAlert": "",
     "gdpr": "",
@@ -1693,7 +1693,7 @@
             }
           },
           "_name": "content9",
-          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"36\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#149dcc\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>Payment Modes:<br>- CASH<br>- CREDIT CARD AND BANK TRANSFER (Use the Button)<br>- EWALLETS (Use the Button)<br>-PAYPAL (Coming Soon)</div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
+          "_customHTML": "<section class=\"mbr-section article content9\" group=\"Article\">\n    \n    <mbr-parameters>\n    <!-- Block parameters controls (Blue \"Gear\" panel) -->\n        <input type=\"range\" inline title=\"Top\" name=\"paddingTop\" min=\"0\" max=\"8\" step=\"1\" value=\"0\">\n        <input type=\"range\" inline title=\"Bottom\" name=\"paddingBottom\" min=\"0\" max=\"8\" step=\"1\" value=\"1\">\n        <input type=\"range\" inline title=\"Text Width\" name=\"innerWidth\" min=\"50\" max=\"100\" step=\"1\" value=\"100\">\n        <input type=\"range\" inline title=\"Line Width\" name=\"lineLength\" min=\"10\" max=\"100\" step=\"1\" value=\"36\">\n        <input type=\"color\" title=\"Line Color\" name=\"lineColor\" value=\"#149dcc\">\n        <input type=\"color\" title=\"Background Color\" name=\"bgColor\" value=\"#ffffff\">\n    <!-- End block parameters -->\n    </mbr-parameters> \n\n    <div class=\"container\">\n        <div class=\"inner-container\" mbr-style=\"{'width': innerWidth + '%'}\">\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n            <div class=\"section-text align-center mbr-fonts-style\" mbr-theme-style=\"display-5\" data-app-selector=\".section-text\" mbr-text>Payment Modes:<br>- CASH<br>- CREDIT CARD AND BANK TRANSFER (Use the Button)<br>- EWALLETS (Use the Button)<br>-PAYPAL (Coming Soon)</div>\n            <hr class=\"line\" mbr-style=\"{'width': lineLength + '%'}\">\n        </div>\n        </div>\n</section>",
           "_cid": "r6CYbxzftr",
           "_anchor": "content9-l",
           "_protectedParams": [],
@@ -1725,7 +1725,7 @@
         },
         {
           "_params": {
-            "HTMLCode": "<center>\n<h3>Pay Online</h3>\n<a href=\"https://www.instamojo.com/@expertsunny/l28f4947178d749fdab7f089f5c2824e6/\" rel=\"im-checkout\" data-behaviour=\"link\" data-style=\"flat\" data-text=\"PAY NOW\"></a>\n<script src=\"https://js.instamojo.com/v1/button.js\"></script>\n</center>",
+            "HTMLCode": "<center>\n<h3>Pay Online</h3>\n<a href=\"https://www.instamojo.com/@expertsunny/l28f4947178d749fdab7f089f5c2824e6/\" rel=\"im-checkout\" data-behaviour=\"remote\" data-style=\"flat\" data-text=\"PAY NOW\"></a>\n<script src=\"https://js.instamojo.com/v1/button.js\"></script>\n</center>",
             "paddingTop": "0",
             "bgImageRadio": false,
             "bgImage": "images/bg3.jpg",
@@ -1736,7 +1736,7 @@
             "overlayColor": "#222",
             "overlayOpacity": 0.5
           },
-          "HTMLCode": "<center>\n<h3>Pay Online</h3>\n<a href=\"https://www.instamojo.com/@expertsunny/l28f4947178d749fdab7f089f5c2824e6/\" rel=\"im-checkout\" data-behaviour=\"link\" data-style=\"flat\" data-text=\"PAY NOW\"></a>\n<script src=\"https://js.instamojo.com/v1/button.js\"></script>\n</center>",
+          "HTMLCode": "<center>\n<h3>Pay Online</h3>\n<a href=\"https://www.instamojo.com/@expertsunny/l28f4947178d749fdab7f089f5c2824e6/\" rel=\"im-checkout\" data-behaviour=\"remote\" data-style=\"flat\" data-text=\"PAY NOW\"></a>\n<script src=\"https://js.instamojo.com/v1/button.js\"></script>\n</center>",
           "paddingTop": ".block {padding-bottom:0rem; padding-top:0rem;}",
           "alias": "witsec-custom-html",
           "_tags": [
